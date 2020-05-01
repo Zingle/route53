@@ -1,4 +1,5 @@
 # ip            additional comments
-  127.0.0.1     local development
   10.13.23.42   zbox development
+  23.185.0.1    Patheon Site redirect to corp
   35.190.24.167 cdn.zingle.me
+  127.0.0.1     local development
