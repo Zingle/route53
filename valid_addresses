@@ -1,7 +1,26 @@
-# ip            additional comments
-  10.13.23.42   zbox development
-  23.185.0.1    Patheon Site redirect to corp
-  35.190.24.167 cdn.zingle.me
-  127.0.0.1     local development
-  151.101.1.195   packagist
-  151.101.65.195  packagist
+# ip/host                                           additional comments
+  10.13.23.42                                       zbox development
+  23.185.0.1                                        Patheon Site redirect to corp
+  35.190.24.167                                     cdn.zingle.me
+  127.0.0.1                                         local development
+  127.0.0.100                                       local master
+  151.101.1.195                                     packagist
+  151.101.65.195                                    packagist
+  admin.zingle.me.                                  mc.zingle.me
+  ec2-52-11-231-65.us-west-2.compute.amazonaws.com  salesv2.zingle.me
+  ghs.googlehosted.com                              hq.zingle.me
+  headwayapp.co.                                    changes.zingle.me
+  live-zingle.pantheonsite.io                       Pantheon Site
+  p9k2r9ffvqww.stspg-customer.com                   status.zingle.me
+  pm.mtasv.net.                                     ??? pm-bounces.zingle.me ???
+  vhk5igte.cname.us.ngrok.io                        ngrok forwarding
+
+# EFS shares
+  fs-18fa11b0.efs.us-west-2.amazonaws.com.          bak-fs
+  fs-7c7f23d5.efs.us-west-2.amazonaws.com.          blog-fs
+  fs-448cd6ed.efs.us-west-2.amazonaws.com.          build-fs
+  fs-49cbc4e1.efs.us-west-2.amazonaws.com.          cuda9-fs
+  fs-743fa8de.efs.us-west-2.amazonaws.com.          log-fs
+  fs-e9dcdc41.efs.us-west-2.amazonaws.com.          nlu-fs
+  fs-ec4b99e9.efs.us-west-2.amazonaws.com.          ops-fs
+  fs-578d17fe.efs.us-west-2.amazonaws.com.          res-fs
