@@ -25,3 +25,8 @@
   fs-e9dcdc41.efs.us-west-2.amazonaws.com.          nlu-fs
   fs-ec4b99e9.efs.us-west-2.amazonaws.com.          ops-fs
   fs-578d17fe.efs.us-west-2.amazonaws.com.          res-fs
+
+# DKIM public keys
+  4m3ybo2oceyizzmmrf6tfsfla66xgxyd.dkim.amazonses.com.
+  6iee7rcwm25wbxyzt53wfdqlabeozk4w.dkim.amazonses.com.
+  rxlhhf7y444xitrtl2tlw3ovexfhvsh4.dkim.amazonses.com.
