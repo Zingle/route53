@@ -4,6 +4,7 @@
   35.190.24.167                                     cdn.zingle.me
   127.0.0.1                                         local development
   127.0.0.100                                       local master
+  141.193.213.20                                    www.zingle.me forward (CloudFlare)
   151.101.1.195                                     packagist
   151.101.65.195                                    packagist
   admin.zingle.me.                                  mc.zingle.me
