@@ -18,6 +18,7 @@
   pm.mtasv.net.                                     ??? pm-bounces.zingle.me ???
   vhk5igte.cname.us.ngrok.io                        ngrok forwarding
   393073.group23.sites.hubspot.net
+  _a5669338de0d165c599f397509e31ce1.rlltrpyzyf.acm-validations.aws          *.help.zingle.me
   e60fb78b-zingle0-apigatewa-4170-1202892062.us-east-2.elb.amazonaws.com    used for gateway.zingle.me
 
 # EFS shares
